@@ -1,0 +1,12 @@
+{
+  "name": "deslopdashboard",
+  "description": "Measure-first skills for calm dashboards and app UIs.",
+  "owner": { "name": "deslopdashboard" },
+  "plugins": [
+    {
+      "name": "deslopdashboard",
+      "source": "./",
+      "description": "dashboard-unslop (redesign a cluttered dashboard by measurement) and dashboard-blueprint (rule structure for a new dashboard or app)."
+    }
+  ]
+}
